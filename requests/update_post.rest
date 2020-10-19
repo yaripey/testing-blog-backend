@@ -1,0 +1,6 @@
+PUT http://localhost:3001/posts/6693450
+Content-Type: application/json
+
+{
+    "content": "Updated post"
+}

@@ -1,0 +1,7 @@
+POST http://localhost:3001/comments
+Content-Type: application/json
+
+{
+    "postId": 6693450,
+    "content": "One more comment"
+}
